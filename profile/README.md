@@ -38,7 +38,7 @@ To check lollipop's current status and statistics, visit the [status page](https
 ![status](https://top.gg/api/widget/status/919061572649910292.svg)
 
 <a href='https://infinitybots.gg/bots/919061572649910292' title='widget'>
-    <img src='https://infinitybots.gg/bots/919061572649910292/widget?size=large'></img>
+    <img src='https://widgets.infinitybots.gg/bot/919061572649910292/?size=large&theme=light'></img>
 </a>
 <br>
 
